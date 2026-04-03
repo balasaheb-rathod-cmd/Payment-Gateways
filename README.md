@@ -2,7 +2,7 @@
 
 ## Preview
 
-![Payment Gateway Screenshot](screenshot.png)
+![Payment Gateway Screenshot](https://github.com/balasaheb-rathod-cmd/Payment-Gateways/blob/main/screenshot.png)
 
 A modern, responsive payment gateway UI built with pure HTML, CSS, and vanilla JavaScript. No frameworks, no backend, no real payment API.
 
